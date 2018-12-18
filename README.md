@@ -19,6 +19,12 @@ Steps:
 
 3. Load the data: Use the table create statements to generate three tables (AP scores table, SAT scores table, demographic table) in a new database, edit create statements as 	needed, and create summary view to enable future analysis. 
 
-Report: Detail how and why we accomplished each step for ETL, why we are producing this ETL process, and denote any caveats about the process. 
+Deliverables:
+
+	1. Python Jupyter Notebook with extract, transform, and load operations.
+	
+	2. Sql statement to create database and tables
+
+	3. Report detailing how and why we accomplished each step for ETL, why we are producing this ETL process, and denote any caveats 	  about the process. 
 
 
