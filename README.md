@@ -5,8 +5,8 @@
 NYC school data
 
 Source data: 
-2 csv (SAT scores, demographics)
-1 json (AP tests)
+2 csv (SAT scores https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4, demographics https://data.cityofnewyork.us/Education/2006-2012-School-Demographics-and-Accountability-S/ihfw-zy9j)
+1 json (AP tests https://data.cityofnewyork.us/Education/2012-AP-Results/9ct9-prf9)
 
 We will use a SQL database due to unchanging data structure, and likely users of data being familiar with relational database systems, and other reasons TBD. 
 
