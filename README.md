@@ -21,10 +21,11 @@ Steps:
 
 Deliverables:
 
-	1. Python Jupyter Notebook with extract, transform, and load operations.
+	- Python Jupyter Notebook with extract, transform, and load operations.
 	
-	2. Sql statement to create database and tables
+	- Sql statement to create database and tables
 
-	3. Report detailing how and why we accomplished each step for ETL, why we are producing this ETL process, and denote any caveats 	  about the process. 
+	- Report detailing how and why we accomplished each step for ETL, why we are producing this ETL process, 
+	and denote any caveats about the process. 
 
 
