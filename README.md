@@ -14,10 +14,10 @@ Steps:
 
 1. Bring in the data: Extract CSVs and JSON and store as dataframes
 
-2. Transform the data: Clean data [e.g. remove "s" null values, check that DBN is unique, filter demographic for 2011-2012 school year, filter schools with neither test score info [if time, pull from input dataset title or add user input capability for field]) 
+2. Transform the data: Clean data [e.g. check that DBN is unique, filter demographic for 2011-2012 school year, [if time, pull from input dataset title or add user input capability for field]) 
 	End result - Three dataframes, one for each data source
 
-3. Load the data: Use the table create statements to generate three tables (AP scores table, SAT scores table, demographic table) in a new database, edit create statements as 	needed, and create summary view to enable future analysis. 
+3. Load the data: Use the table create statements to generate three tables (AP scores table, SAT scores table, demographic table) in a new database, edit create statements as 	needed, and create summary view to enable future analysis. NOTE: For SAT view, query demographic table for seniors only. For AP view, query for all grades.  
 
 Deliverables:
 
