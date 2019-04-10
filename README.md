@@ -32,5 +32,7 @@ Deliverables:
 
 
 Collaborators: 
+
 	Austen Manser
+
 	James Curtis
