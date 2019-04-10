@@ -31,3 +31,6 @@ Deliverables:
 	and denote any caveats about the process. 
 
 
+Collaborators: 
+	Austen Manser
+	James Curtis
